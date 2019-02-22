@@ -1,0 +1,5 @@
+nom de l'école = GoDSchool
+adresse école = 12 rue de l'eden 666 Paradise
+nom académie = Elite
+nom directrice = Madame Lydie Saint
+
